@@ -15,11 +15,11 @@ Compile and run the programs using GCC:
 
 ```bash
 gcc caesar/caesar.c -o caesar
-./caesar
+./caesar.exe
 ```
 
 ```bash
 gcc substitution/substitution.c -o substitution
-./substitution
+./substitution.exe key
 ```
 ---
